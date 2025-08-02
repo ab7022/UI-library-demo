@@ -36,7 +36,7 @@ export function Header() {
             Config Editor
           </a>
           <a
-            href="https://github.com/"
+            href="https://github.com/ab7022/UI-library-demo/"
             target="_blank"
             rel="noopener"
             className="px-3 py-2 rounded-md text-sm font-medium text-fuchsia-100 hover:text-white hover:bg-fuchsia-700/30 transition-colors"

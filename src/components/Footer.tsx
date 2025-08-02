@@ -13,7 +13,7 @@ export function Footer() {
         </div>
         <nav className="flex gap-4">
           <a
-            href="https://github.com/"
+            href="https://github.com/ab7022/UI-library-demo"
             target="_blank"
             rel="noopener"
             className="text-white/60 hover:text-white transition-colors"
@@ -21,13 +21,13 @@ export function Footer() {
             GitHub
           </a>
           <a
-            href="#"
+            href="https://github.com/ab7022/UI-library-demo"
             className="text-white/60 hover:text-white transition-colors"
           >
             Documentation
           </a>
           <a
-            href="#"
+            href="https://github.com/ab7022/UI-library-demo"
             className="text-white/60 hover:text-white transition-colors"
           >
             Examples
